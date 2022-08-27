@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Dina Alshboul",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dinashboul",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/dina_alshboul/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "dina.jpg"
     },
     "skills": {
       "icons": [
@@ -29,8 +29,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Python",
+          "class": "devicon-Python-plain",
           "level": "80"
         },
         {
