@@ -12,7 +12,13 @@
         "name": "instagram",
         "url": "https://www.instagram.com/dina_alshboul/",
         "class": "fab fa-instagram"
+      }, 
+      {
+        "name": "Linkedin",
+        "url": "www.linkedin.com/in/dina-shboul-64a339143",
+        "class": "fab fa-Linkedin"
       }
+
     ],
     "image": "dina.jpg"
   },
